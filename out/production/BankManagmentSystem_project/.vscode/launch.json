@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "java",
+      "name": "Signup2",
+      "request": "launch",
+      "mainClass": "Bank.managment.system.Signup2",
+      "projectName": "src_7f194d88"
+    },
+    {
+      "type": "java",
+      "name": "Signup",
+      "request": "launch",
+      "mainClass": "Bank.managment.system.Signup",
+      "projectName": "src_7f194d88"
+    },
+    {
+      "type": "java",
+      "name": "Login",
+      "request": "launch",
+      "mainClass": "Bank.managment.system.Login",
+      "projectName": "src_7f194d88"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": "Bank.managment.system.ConnectFile",
+      "vmArgs": "-cp lib/mysql-connector-java-8.0.33.jar"
+    }
+  ]
+}
