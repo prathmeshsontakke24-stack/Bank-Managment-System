@@ -1,10 +1,6 @@
 # Bank-Managment-System
 This is my Basic first core java project
 
-Here is a **clean and professional README description** you can put in your GitHub repository for your **Bank Management System project**. This will look good for **college submission and your portfolio on GitHub**.
-
-You can copy-paste and edit if needed.
-
 ---
 
 # Bank Management System
@@ -196,10 +192,4 @@ Through this project, the following concepts were learned:
 Java Developer | Student
 
 ---
-
-If you want, I can also give you **3 extra things that will make this project look 10× more professional on GitHub**:
-
-* a **professional README with badges**
-* **screenshots section**
-* **database schema diagram** (great for viva and project presentation).
 
